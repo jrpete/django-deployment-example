@@ -25,7 +25,7 @@ SECRET_KEY = 'z2iaw^c=y!zrb9h5v)psa6_8w#s)p(@(_4izcdror=)y7$sba&'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['jrpete.pythonanywhere.com']
 
 
 # Application definition
